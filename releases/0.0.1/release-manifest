@@ -1,8 +1,0 @@
-version 0.0.1
-agent-platform 65461c569b8cff7f1a265a6fe98ac04cd60bc72e
-library 4fcebce49d70edd5447f2f6e35564be5d1515e22
-convivy-orient 140e2c3bffee1f748104c844dfd413fafd6d07af
-convivy-deck dffdc1ccd8552b48c284008a11ed378bee184b5e
-shipwright 73af5af81d7dd3c02ecb0586a2587f648ead4e0e
-write-better 523f03edbca199de31208de42bda446198d7b4a9
-archive https://github.com/convivybuilder-rehearsal/shipwright/archive/refs/tags/v0.0.1.tar.gz 7365b310c3251ae4142b0fb26b8dae84416075f6076955623e7f0d27768f56ce
